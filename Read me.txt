@@ -1,0 +1,8 @@
+gb folder - jersey services project
+gb.sql - Database file
+
+----------------------------------------
+
+1. import 'gb.sql' into phpMyAdmin
+2. open 'gb' folder via eclipse and run
+
